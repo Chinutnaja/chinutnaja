@@ -1,0 +1,2 @@
+t = True
+type(f)
